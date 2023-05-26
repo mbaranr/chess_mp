@@ -1,4 +1,4 @@
-# Chess-Local-Multiplayer-Java
+# Chess Local Multiplayer Java
 
 This is a Chess game designed for local multiplayer gameplay created using the Java GUI package swing. 
 
