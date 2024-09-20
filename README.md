@@ -3,7 +3,7 @@
 This is a Chess game designed for local multiplayer gameplay created using the Java GUI package swing. 
 
 ## About
-Refer to the [documentation](https://github.com/m4mbo/chess-local-multiplayer/tree/main/documentation) directory for information on requirements, class interaction and testing.
+Refer to the [documentation](https://github.com/m4mbo/chess-local-multiplayer/tree/main/docs) directory for information on requirements, class interaction and testing.
 
 ## Build and Run
 
