@@ -1,4 +1,4 @@
-# Chess Local Multiplayer Java
+# Chess Local Multiplayer: Java
 
 This is a Chess game designed for local multiplayer gameplay created using the Java GUI package swing. 
 
@@ -10,4 +10,9 @@ A 2D array was implemented as the underlying data structure of the board. The UM
 ```
 ./run.sh
 ```
+
+## Credits
+
+* [m4mbo](https://github.com/m4mbo) - Code.
+* [Wikipedia](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) - Images.
 
