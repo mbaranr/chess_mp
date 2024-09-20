@@ -13,6 +13,6 @@ A 2D array was implemented as the underlying data structure of the board. The UM
 
 ## Credits
 
-* [m4mbo](https://github.com/m4mbo) - Code
-* [Wikipedia](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) - Images
+* [m4mbo](https://github.com/m4mbo) - Code.
+* [Wikipedia](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) - Images.
 
