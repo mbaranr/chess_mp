@@ -2,9 +2,8 @@
 
 This is a Chess game designed for local multiplayer gameplay created using the Java GUI package swing. 
 
-A 2D array was implemented as the underlying data structure of the board. The UML class diagram inside the Chess folder gives a better understanding of how the classes interact with each other. Furthermore. You can also check out the SRD document designed to establish the requirements for the system, as well as the design and testing documents.
-
-![ppy](res/sample.gif)
+## About
+Refer to the [documentation](https://github.com/m4mbo/chess-local-multiplayer/tree/main/documentation) directory for information on requirements, class interaction and testing.
 
 ## Build and Run
 
@@ -17,3 +16,5 @@ A 2D array was implemented as the underlying data structure of the board. The UM
 * [m4mbo](https://github.com/m4mbo) - Code.
 * [Wikipedia](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) - Images.
 
+
+![ppy](res/sample.gif)
