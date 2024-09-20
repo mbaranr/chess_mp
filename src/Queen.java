@@ -1,5 +1,3 @@
-package Chess;
-
 import javax.swing.ImageIcon;
 
 public class Queen extends Piece {
@@ -11,7 +9,7 @@ public class Queen extends Piece {
 		
 		//checking if the piece is black or white to choose the correct sprite
 		
-		this.sprite = isWhite ? new ImageIcon("res/WQueen.png").getImage() : new ImageIcon("res/BQueen.png").getImage();
+		this.sprite = isWhite ? new ImageIcon("../res/WQueen.png").getImage() : new ImageIcon("../res/BQueen.png").getImage();
 	}
 	
 	public boolean isValidMove(int row, int col) {

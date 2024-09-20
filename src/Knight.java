@@ -1,5 +1,3 @@
-package Chess;
-
 import javax.swing.ImageIcon;
 
 public class Knight extends Piece{
@@ -12,7 +10,7 @@ public class Knight extends Piece{
 		
 		//checking if the piece is black or white to choose the correct sprite
 
-		this.sprite = isWhite ? new ImageIcon("res/WKnight.png").getImage() : new ImageIcon("res/BKnight.png").getImage();
+		this.sprite = isWhite ? new ImageIcon("../res/WKnight.png").getImage() : new ImageIcon("../res/BKnight.png").getImage();
 	}
 	
 	//checking for the validity of a move, row and col are the values for the tile of the move

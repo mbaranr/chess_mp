@@ -1,7 +1,4 @@
-package Chess;
-
 import java.awt.Graphics;
-
 import java.awt.Image;
 
 //parent abstract class from which every piece is inherits

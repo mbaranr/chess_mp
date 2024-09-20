@@ -1,8 +1,5 @@
-package Chess;
-
 import java.awt.Graphics;
 import java.awt.Image;
-
 import javax.swing.JPanel;
 
 //panel to print the taken pieces

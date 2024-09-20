@@ -1,5 +1,3 @@
-package Chess;
-
 public class CheckHandler {
 	
 	Board board;	

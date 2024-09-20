@@ -1,5 +1,3 @@
-package Chess;
-
 import javax.swing.ImageIcon;
 
 public class Bishop extends Piece {
@@ -10,7 +8,7 @@ public class Bishop extends Piece {
 		super(isTaken, isWhite, row, col, board, name);
 		
 		//checking if the piece is black or white to choose the correct sprite
-		this.sprite = isWhite ? new ImageIcon("res/WBishop.png").getImage() : new ImageIcon("res/BBishop.png").getImage();
+		this.sprite = isWhite ? new ImageIcon("../res/WBishop.png").getImage() : new ImageIcon("../res/BBishop.png").getImage();
 	}
 	
 	

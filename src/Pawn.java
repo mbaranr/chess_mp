@@ -1,5 +1,3 @@
-package Chess;
-
 import javax.swing.ImageIcon;
 
 public class Pawn extends Piece {
@@ -10,7 +8,7 @@ public class Pawn extends Piece {
 		
 		//checking if the piece is black or white to choose the correct sprite
 		
-		this.sprite = isWhite ? new ImageIcon("res/WPawn.png").getImage() : new ImageIcon("res/BPawn.png").getImage();
+		this.sprite = isWhite ? new ImageIcon("../res/WPawn.png").getImage() : new ImageIcon("../res/BPawn.png").getImage();
 	}
 	
 	//checking for the validity of a move, row and col are the values for the tile of the move

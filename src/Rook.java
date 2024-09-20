@@ -1,5 +1,3 @@
-package Chess;
-
 import javax.swing.ImageIcon;
 
 public class Rook extends Piece {
@@ -7,7 +5,7 @@ public class Rook extends Piece {
 	//constructor
 	public Rook(boolean isTaken, boolean isWhite, int row, int col, Board board, char name) {
 		super(isTaken, isWhite, row, col, board, name);
-		this.sprite = isWhite ? new ImageIcon("res/WRook.png").getImage() : new ImageIcon("res/BRook.png").getImage();
+		this.sprite = isWhite ? new ImageIcon("../res/WRook.png").getImage() : new ImageIcon("../res/BRook.png").getImage();
 	}
 	
 	//checking for the validity of a move, row and col are the values for the tile of the move

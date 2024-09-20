@@ -1,5 +1,3 @@
-package Chess;
-
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Image;
@@ -48,8 +46,8 @@ public class GamePanel extends JPanel implements Runnable{
 		gameOver = false;
 		timerStart = false;
 		
-		whiteKing = new ImageIcon("res/WKing.png").getImage();
-		blackKing = new ImageIcon("res/BKing.png").getImage();
+		whiteKing = new ImageIcon("../res/WKing.png").getImage();
+		blackKing = new ImageIcon("../res/BKing.png").getImage();
 		
 		this.uipanel = uipanel;
 		this.piecespanel = piecespanel;
