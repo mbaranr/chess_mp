@@ -17,4 +17,6 @@ Refer to the [documentation](https://github.com/m4mbo/chess-local-multiplayer/tr
 * [Wikipedia](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) - Images.
 
 
-![ppy](res/sample.gif)
+<div align="center">
+  <img src="res/sample.gif" alt="demo" width="500"/>
+</div>
