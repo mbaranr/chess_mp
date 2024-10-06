@@ -1,6 +1,10 @@
 # Chess Local Multiplayer: Java
 
-This is a Chess game designed for local multiplayer gameplay created using the Java GUI package swing. 
+This is a chess game designed for local multiplayer gameplay created using the Java GUI package swing. 
+
+<div align="center">
+  <img src="res/sample.gif" alt="demo" width="500"/>
+</div>
 
 ## About
 Refer to the [documentation](https://github.com/m4mbo/chess-local-multiplayer/tree/main/docs) directory for information on requirements, class interaction and testing.
@@ -17,6 +21,4 @@ Refer to the [documentation](https://github.com/m4mbo/chess-local-multiplayer/tr
 * [Wikipedia](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) - Images.
 
 
-<div align="center">
-  <img src="res/sample.gif" alt="demo" width="500"/>
-</div>
+
