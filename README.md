@@ -15,10 +15,5 @@ Refer to the [documentation](https://github.com/m4mbo/chess-local-multiplayer/tr
 ./run.sh
 ```
 
-## Credits
-
-* [m4mbo](https://github.com/m4mbo) - Code.
-* [Wikipedia](https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces) - Images.
-
 
 
